@@ -4,7 +4,7 @@ import os
 DATA_DIR = './data'
 
 dataset_size = 100
-folder_name = "Hi"
+folder_name = "26"
 cap = cv2.VideoCapture(0)
 
 
